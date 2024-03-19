@@ -1,11 +1,15 @@
 # Causal Inference
 
 ---
-Causal Inference is a great interest of mine. Coming from an Econometrics background, all I ever wanted to eliminate was that error term. Be it with instrumental variables, different research design, difference in difference, prepost analysis, and regression discontinuity, it's safe to say my goal was the same. But now, I am thankful for various ML models on the market that would allow me to do much more. 
+Causal Inference is a great interest of mine. Coming from an Econometrics background, all I ever wanted to eliminate was that error term. Be it with instrumental variables, different research design, difference in difference, prepost analysis, and regression discontinuity, it's safe to say my goal was to observe the real effect. But now, I am thankful for various ML models on the market that would allow me to do much more. Here's something you might find interesting.
 
-Here, I will list my projects related to causal inference, starting with:
+<img width="521" alt="image" src="https://github.com/obatbayar1/All_things_causal/assets/136912472/83bbff87-b844-4d90-9a5e-f3e4c6b89384">
 
-1. **Hillstrom Dataset**- Email Market Campaign Effectiveness with S and T learner with Uber's CausalML package.
+---
+### Here, I will list my projects related to causal inference, starting with:
+
+### 1. Hillstrom Dataset - Email Market Campaign Effectiveness with S and T learner with Uber's CausalML package.
+---
 
    <img width="687" alt="image" src="https://github.com/obatbayar1/All_things_causal/assets/136912472/e3f14372-2791-40d8-b583-16df388fbd1c">
 ---
